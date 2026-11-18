@@ -1,10 +1,10 @@
-# 📡 Proyecto Comunicaciones 1: Procesamiento, Digitalización PCM y Modulación AM/FM de Señal de Voz
+# Tarea Nº 2 - Modulación de señales aplicada a señales de audio.
 
-Este repositorio contiene el desarrollo completo del proyecto de **Comunicaciones 1**, enfocado en la adquisición, análisis en el dominio del tiempo y la frecuencia, muestreo y digitalización (PCM), modulación analógica en amplitud (AM) y frecuencia (FM), demodulación coherente y reconstrucción de una señal de audio real (frase *"Just do it"*, ~2.38 segundos).
+Este repositorio  enfocado en la adquisición, análisis en el dominio del tiempo y la frecuencia, muestreo y digitalización (PCM), modulación analógica en amplitud (AM) y frecuencia (FM), demodulación coherente y reconstrucción de una señal de audio real (frase *"Just do it"*, ~2.38 segundos).
 
 ---
 
-## 🚀 Contenido del Proyecto
+##  Contenido del Proyecto
 
 1. **Grabación y Adquisición:**
    - Señal original en audio/video decodificada a WAV PCM 16-bit mono ($f_s = 48{,}000\text{ Hz}$).
@@ -31,7 +31,7 @@ Este repositorio contiene el desarrollo completo del proyecto de **Comunicacione
 
 ---
 
-## 📁 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```text
 ├── audio/                                   # Archivos de audio WAV de cada etapa
@@ -62,7 +62,7 @@ Este repositorio contiene el desarrollo completo del proyecto de **Comunicacione
 
 ---
 
-## 🛠️ Instalación y Requisitos
+##  Instalación y Requisitos
 
 Se requiere Python 3.10 o superior (recomendado Python 3.13):
 
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ---
 
-## 💻 Formas de Ejecución
+##  Formas de Ejecución
 
 ### Opción 1: Menú Automático en Windows
 Haz doble clic sobre el archivo `ejecutar.bat` para acceder al menú interactivo:
@@ -101,7 +101,7 @@ python procesamiento_voz.py
 
 ---
 
-## 📊 Métricas de Desempeño Obtenidas
+## Métricas de Desempeño Obtenidas
 
 | Etapa | Métrica | Valor Obtenido | Calidad |
 | :--- | :--- | :--- | :--- |
@@ -112,5 +112,5 @@ python procesamiento_voz.py
 
 ---
 
-## 👤 Autor
+## Autor
 - **Harold Ordoñez** - *Universidad Tecnológica de Pereira (UTP)*
