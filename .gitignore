@@ -1,0 +1,9 @@
+# Entornos virtuales y cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.tmp
+*.log
+.vscode/
+.idea/
